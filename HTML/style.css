@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    background-image: linear-gradient(to right top,
+            #d16ba5,
+            #c777b9,
+            #ba83ca,
+            #aa8fd8,
+            #9a9ae1,
+            #8aa7ec,
+            #79b3f4,
+            #69bff8,
+            #52cffe,
+            #4adfff,
+            #46eefa,
+            #5ffbf1);
+    background-attachment: fixed;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+table {
+    background: white;
+    width: 900px;
+    padding: 2px;
+}
+
+.tombol {
+    padding: 5px;
+    background-color: orange;
+    text-decoration: none;
+}
+
+.text {
+    font-size: small;
+}
+
+
+.bg-tombol {
+    background-color: darkblue;
+    padding: 8px;
+}
+
+.prestasi {
+    padding: 4px;
+    margin: 5px;
+
+}
+
+.copyright {
+    background-color: darkblue;
+    color: white;
+}
+
+.border1 {
+    border: 2px solid orange;
+    padding: 1px;
+}
+
+p {
+    font-size: x-small;
+
+}
+
+.visi {
+
+
+    padding: 4px;
+    margin: 5px;
+
+}
+
+.v2 {
+    font-size: small;
+}
+
+.misi {
+    padding: 4px;
+    margin: 5px;
+}
+
+.m2 {
+    font-size: x-small;
+
+}
+
+.berita {
+
+    padding: 5px;
+    margin: 3px;
+    ;
+}
