@@ -1,0 +1,110 @@
+
+
+body {
+    background-image: linear-gradient( to right top, #051937,
+     #004d7a,
+      #008793,
+       #00bf72,
+        #a8eb12 );
+    background-attachment: fixed;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+table {
+    background: white;
+    width: 900px;
+    padding: 2px;
+}
+
+.tombol {
+    padding: 5px;
+    background-color: orange;
+    text-decoration: none;
+}
+
+.text {
+    font-size: small;
+}
+
+
+.bg-tombol {
+    background-color: darkblue;
+    padding: 8px;
+    font-size: 13px;
+}
+
+.prestasi {
+    padding: 4px;
+    margin: 5px;
+
+}
+
+.copyright {
+    background-color: darkblue;
+    color: white;
+    font-size: 13px;
+    background-size: 8px;
+    width: 900px;
+    margin: 5px;
+    padding: 5px;
+}
+.content{
+    height:60vh;
+    vertical-align: top;
+   font-size: 12px;
+}
+
+.border1 {
+    
+    
+    border: 2px solid orange;
+    padding: 1px;
+    width: 200px;
+    margin: 5px;
+
+}
+.paragraf{
+    font-size: 12px;
+}
+.paragraf2{
+    font-size: 12px;
+}
+ 
+p {
+    font-size: x-small;
+
+}
+
+.visi1 {
+    font-size: 14px;
+   padding: 4px;
+    margin: 5px;
+
+}
+
+.v2 {
+    font-size:  12px;;
+    padding: 10px;
+    margin: 4px;
+  
+}
+
+.misi {
+    padding: 4px;
+    margin: 5px;
+    font-size: 14px;
+    
+}
+
+.m2 {
+    font-size: 12px;
+
+}
+
+.berita {
+
+    padding: 5px;
+    margin: 3px;
+    
+}
